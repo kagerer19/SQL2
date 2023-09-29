@@ -5,7 +5,7 @@ SQL Excercise 02
 
 3. date output - Output of EMPNO, ENAME and HIREDATE (format DD. Month YYYY) for each employee.
 
-4. date output 2 - Output of ENAME and the number of days since joining the company (column heading DAYS) for each employee.
+4. date output 2 -  Output of ENAME and the number of days since joining the company (column heading DAYS) for each employee.
 
 5. simple output 2 - Output of jobs (only 1 output per job).
 
